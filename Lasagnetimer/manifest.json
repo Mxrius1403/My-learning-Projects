@@ -1,0 +1,10 @@
+{
+    "name": "Lasagnetimer",
+    "short_name": "Lasagnetimer",
+    "theme_color": "#808080",
+    "background_color": "#808080",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
